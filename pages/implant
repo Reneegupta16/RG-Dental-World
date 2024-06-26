@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>RG Dental World| Dental Implants and Restorations</title>
+
+    <!-- Font Awesome -->
+    <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet"/> -->
+    <!-- Google Fonts -->
+    <!-- <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/> -->
+    <!-- MDB -->
+    <!--  -->
+    <!--  -->
+    <!--  -->
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+    <!-- Bootstrap Icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
+    <!-- SimpleLightbox plugin CSS-->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.css" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="../css/mdb.min.css" rel="stylesheet"/>
+    <link href="../css/bootstrap.css" rel="stylesheet" />
+    <link href="../css/style.css" rel="stylesheet" />
+    <link href="../css/custom.css" rel="stylesheet" />
+</head>
+<body id="page-top">
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 has-box-shadow" id="mainNav">
+        <div class="container px-4 px-lg-5">
+            <a class="navbar-brand" href="../index.html">
+                <img height="" width="70" src="../assets/logo.png" alt="">
+            </a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto my-2 my-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="#DentalImplants">Dental Implants</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Nav-Spacer START -->
+    <div class="container nav-spacer">
+      <h2 hidden>Dental Implants and Restorations</h2>
+    </div>
+    <!-- Nav-Spacer END -->
+    <!-- Work Details Section -->
+    <div class="container" id="DentalImplants">
+      <div class="row justify-content-center">
+        <div class="col-lg-10 mb-2" id="sect1">
+          <h2>Dental Implants and Restorations</h2>
+          <hr>
+          <img src="img/webp/dental-implant.webp" alt="Dental Implant">
+        </div>
+        <div class="col-lg-10 mt-2">
+          <section id="sect2">
+            <p>
+              Dental implants are artificial tooth roots that are surgically placed into the jawbone beneath your gums. Once in place, they allow your dentist to mount replacement teeth onto them. Dental implants can be an excellent option for replacing missing teeth, providing a stable foundation for both individual crowns and implant-supported bridges or dentures.
+            </p>
+            <p>
+              Our clinic offers comprehensive dental implant services, including the initial consultation, implant placement surgery, and restoration of the implants with custom-made crowns or bridges. We use advanced dental technology and techniques to ensure optimal outcomes and patient comfort throughout the process.
+            </p>
+            <p>
+              Whether you need to replace a single tooth or multiple teeth, our experienced dental surgeon is dedicated to providing personalized care and achieving natural-looking results. Contact us today to schedule your consultation and learn more about how dental implants can restore your smile and improve your oral health.
+            </p>
+          </section>
+        </div>
+      </div>
+    </div>
+    <!-- Work Details Section -->
+    <!-- Contact Section START-->
+    <section class="page-section mt-2" id="contact">
+        <div class="container px-4 px-lg-5">
+            <div class="row g-0">
+          
+                </div>
+              </div>
+          <!-- Google map Section END-->
+              <div class="col-lg-5 col-sm-12 p-2 ml-5 has-box-shadow has-m-l">
+                <div class="row justify-content-center">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="mt-3 pl-3"><i class="bi-telegram fs-2 text-muted"></i>Information</h2>
+                        <hr class="divider" />
+                        <p class="text-muted mb-5">Ready to get in touch with us? Give us a call or send us a message and we'll get back to you as soon as possible!</p>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-12 text-center mb-4">
+                      <h4 class="mb-3">
+                                <i class="bi-envelope fs-2 text-dark"></i>EMAIL:
+                            </h4>
+                        <a href="mailto:office@gaia-klinik.com">
+                          <div class="mb-3">
+                                    <span class="bg-kontact px-3 py-2">
+                                        DRRUCHIROHINI@GMAIL.COM
+                                    </span>
+                                </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-12 text-center mb-4">
+                        <h4  class="mb-3"><i class="bi-phone fs-2 text-muted"></i>CONTACT NUMBER:</h4>
+                        <a href="tel:+4368110282189">
+                          <div class="mb-3">
+                                    <span class="bg-kontact px-3 py-2">
+                                        +91 9958224423
+                                    </span>
+                                </div>
+                      </a>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-12 text-center mb-4">
+                        <h4 class="mb-3"><i class="bi-ui-checks fs-2 m-1 text-muted"></i>Address:</h4>
+                        <div>Shri Vardhman Jain Hospital</div>
+                        <div>Sector 15, Sector 15C, Rohini, Delhi</div>
+                    </div>
+                </div>
+                <hr class="divider" />
+              </div>
+            </div>
+        </div>
+    </section>
+    <!-- Contact Section END-->
+    <!-- Footer Section START-->
+    <footer class="bg-dark has-box-shadow mt-2 py-5">
+        <div class="container px-4 px-lg-5">
+          <div class="row g-0 justify-content-center">
+            <div class="col-lg-3 col-md-12">
+              <div class="small text-center text-white">Copyright &copy; 2024 - Renee Gupta</div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+              <div class="small text-center">
+                <a class="impressum-a" href="../Impress
