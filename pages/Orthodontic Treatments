@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>| Orthodontic Treatments</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css" />
+    <!-- Core theme CSS (includes Bootstrap) -->
+    <link href="../css/mdb.min.css" rel="stylesheet"/>
+    <link href="../css/bootstrap.css" rel="stylesheet" />
+    <link href="../css/style.css" rel="stylesheet" />
+    <link href="../css/custom.css" rel="stylesheet" />
+</head>
+<body id="page-top">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 has-box-shadow" id="mainNav">
+        <div class="container px-4 px-lg-5">
+            <a class="navbar-brand" href="../index.html">
+                <img height="" width="70" src="../assets/logo.png" alt="">
+            </a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto my-2 my-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="#OrthodonticTreatments">Orthodontic Treatments</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Nav-Spacer START -->
+    <div class="container nav-spacer">
+      <h2 hidden>Orthodontic Treatments</h2>
+    </div>
+    <!-- Nav-Spacer END -->
+    <!-- Work Details Section -->
+    <div class="container" id="OrthodonticTreatments">
+      <div class="row justify-content-center">
+        <div class="col-lg-10 mb-2" id="sect1">
+          <h2>Orthodontic Treatments</h2>
+          <hr>
+          <img src="img/webp/orthodontic-treatments.webp" alt="Orthodontic Treatments">
+        </div>
+        <div class="col-lg-10 mt-2">
+          <section id="sect2">
+            <p>
+              Achieve a perfectly aligned smile with our comprehensive orthodontic treatments. Whether you're considering traditional braces or modern aligner systems, our orthodontist is here to provide personalized solutions to suit your needs.
+            </p>
+            <p>
+              Our orthodontic services include metal braces, ceramic braces, and clear aligners, designed to straighten teeth and correct bite issues effectively. We prioritize patient comfort and aesthetic outcomes, ensuring you receive the best care throughout your orthodontic treatment journey.
+            </p>
+            <p>
+              Ready to transform your smile? Schedule a consultation today and discover how our orthodontic treatments can help you achieve a confident, straight smile.
+            </p>
+          </section>
+        </div>
+      </div>
+    </div>
+    <!-- Work Details Section -->
+    <!-- Contact Section START-->
+    <section class="page-section mt-2" id="contact">
+        <div class="container px-4 px-lg-5">
+            <div class="row g-0">
+                <!-- Google map Section START-->
+                <div class="col-lg-6 col-sm-12 p-2 mr-5 has-box-shadow">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12 text-center mt-4">
+                          <!-- Replace with your Google Maps iframe or map embed code -->
+                          
+                        </div>
+                    </div>
+                </div>
+                <!-- Google map Section END-->
+                <div class="col-lg-5 col-sm-12 p-2 ml-5 has-box-shadow has-m-l">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12 text-center">
+                            <h2 class="mt-3 pl-3"><i class="bi-telegram fs-2 text-muted"></i>Contact</h2>
+                            <hr class="divider" />
+                            <p class="text-muted mb-5">Ready to get in touch with us? Give us a call or send us a message and we'll get back to you as soon as possible!</p>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12 text-center mb-4">
+                            <h4 class="mb-3">
+                                <i class="bi-envelope fs-2 text-dark"></i>EMAIL:
+                            </h4>
+                            <a href="mailto:drruchirohini@gmail.com">
+                              <div class="mb-3">
+                                        <span class="bg-kontact px-3 py-2">
+                                            DRRUCHIROHINI@GMAIL.COM
+                                        </span>
+                                    </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12 text-center mb-4">
+                            <h4  class="mb-3"><i class="bi-phone fs-2 text-muted"></i>CONTACT NUMBER:</h4>
+                            <a href="tel:+91 9958224423">
+                              <div class="mb-3">
+                                        <span class="bg-kontact px-3 py-2">
+                                            +91 9958224423
+                                        </span>
+                                    </div>
+                          </a>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-12 text-center mb-4">
+                            <h4 class="mb-3"><i class="bi-ui-checks fs-2 m-1 text-muted"></i>Address:</h4>
+                            <div>Shri Vardhman Jain Hospital</div>
+                            <div>Sector 15, Sector 15C, Rohini, Delhi</div>
+                        </div>
+                    </div>
+                    <hr class="divider" />
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Contact Section END-->
+    <!-- Footer Section START-->
+    <footer class="bg-dark has-box-shadow mt-2 py-5">
+        <div class="container px-4 px-lg-5">
+          <div class="row g-0 justify-content-center">
+            <div class="col-lg-3 col-md-12">
+              <div class="small text-center text-white">Copyright &copy; 2024 - Renee Gupta</div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+              <div class="small text-center">
+
+        </div>
+    </footer>
+    <!-- Footer Section END-->
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- SimpleLightbox plugin JS-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/SimpleLightbox/2.1.0/simpleLightbox.min.js"></script>
+    <!-- Core theme JS-->
+    <!-- <script src="js/scripts.js"></script> -->
+    <!-- MDB -->
+    <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.3.0/mdb.min.js"></script> -->
+</body>
+</html>
