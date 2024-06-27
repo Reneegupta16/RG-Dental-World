@@ -167,7 +167,7 @@ nav .nav-end ul li a:hover {
 
 /*Impressum******************************/
 body {
-  background: url(../img/webp/clinic.webp);
+  background: url(../assets/clinic.png);
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
