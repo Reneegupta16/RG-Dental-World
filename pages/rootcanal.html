@@ -20,6 +20,108 @@
     <link href="../css/style.css" rel="stylesheet" />
     <link href="../css/custom.css" rel="stylesheet" />
 </head>
+  
+  <style>
+    /* Custom CSS */
+    #Socials {
+      margin-top: 30px;
+    }
+
+    #sect1 h2 {
+      font-size: 2rem;
+      font-weight: bold;
+    }
+
+    #sect1 hr {
+      border: 2px solid #007bff; /* Customize the color as needed */
+    }
+
+    #sect1 img {
+      max-width: 200px; /* Adjust the size as necessary */
+      border-radius: 10px; /* Adds rounded corners to the image */
+    }
+
+    #sect2 h3,
+    #sect3 h3 {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-top: 30px;
+    }
+
+    #sect2 .socials,
+    #sect3 .socials {
+      gap: 20px; /* Adds spacing between the buttons */
+    }
+
+    .social-link {
+      display: inline-flex;
+      align-items: center;
+      text-decoration: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      font-size: 1.2rem;
+      transition: transform 0.2s;
+    }
+
+    .social-link i {
+      font-size: 1.5rem;
+    }
+
+    .social-link.facebook {
+      background-color: #3b5998; /* Facebook brand color */
+      color: white;
+    }
+
+    .social-link.instagram {
+      background-color: #e4405f; /* Instagram brand color */
+      color: white;
+    }
+
+    .social-link:hover {
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+
+<div class="container" id="Socials">
+  <div class="row justify-content-center">
+    <div class="col-lg-10 mb-4 text-center" id="sect1">
+      <h2 class="mb-3">Links!</h2>
+      <hr class="mx-auto" style="width: 50px;">
+      <img src="assets/duo.png" alt="Add us everywhere" class="img-fluid mt-4">
+    </div>
+    <div class="col-lg-10 mt-4">
+      <section id="sect2">
+        <h3 class="mb-3 text-center">Dr. Ruchi Gupta</h3>
+        <div class="socials d-flex justify-content-around mb-5">
+          <a href="https://www.facebook.com/dr.ruchi.gupta.rohini" target="_blank" class="social-link facebook btn btn-primary">
+            <i class="bi bi-facebook me-2"></i> Facebook of Dr.Ruchi
+          </a>
+          <a href="https://www.instagram.com/dentistry.with.ruchi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" class="social-link instagram btn btn-danger">
+            <i class="bi bi-instagram me-2"></i> Instagram of Dr.Ruchi
+          </a>
+        </div>
+      </section>
+      
+      <section id="sect3">
+        <h3 class="mb-3 text-center">Creator's Social Media</h3>
+        <div class="socials d-flex justify-content-around">
+           <a href="https://www.linkedin.com/in/renee-gupta-b8a7661b6" target="_blank" class="social-link linkedin btn btn-danger">
+            <i class="bi bi-facebook me-2"></i> LinkedIn of Creator
+          </a>
+          <a href="https://www.instagram.com/reneegupta16/" target="_blank" class="social-link instagram btn btn-danger">
+            <i class="bi bi-instagram me-2"></i> Instagram of Creator
+          </a>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
 <body id="page-top">
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 has-box-shadow" id="mainNav">
@@ -30,7 +132,7 @@
             <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                    <li class="nav-item"><a class="nav-link" href="#RootCanalTherapy">Socials</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#social">Socials</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
                 </ul>
             </div>
@@ -42,22 +144,7 @@
     </div>
     <!-- Nav-Spacer END -->
     <!-- Work Details Section -->
-    <div class="container" id="RootCanalTherapy">
-      <div class="row justify-content-center">
-        <div class="col-lg-10 mb-2" id="sect1">
-          <h2>Links!</h2>
-          <hr>
-          <img src="assets/social.png" alt="Add us everywhere">
-        </div>
-        <div class="col-lg-10 mt-2">
-          <section id="sect2">
-           <div class="socials">
-    <a href="https://www.facebook.com/dr.ruchi.gupta.rohini" target="_blank" class="social-link facebook">
-        <i class="bi bi-facebook"></i> Facebook
-    </a>
-    <a href="https://www.instagram.com/dentistry.with.ruchi?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank" class="social-link instagram">
-        <i class="bi bi-instagram"></i> Instagram
-    </a>
+    
    <style>
         .social-link {
             display: flex;
@@ -75,20 +162,8 @@
         .social-link:hover {
             color: #005582; /* Darker blue on hover */
         }
-    </style>
-    <title>LinkedIn Profile Link</title>
-</head>
-<body>
-
-<!-- LinkedIn Link Section -->
-<section class="container-fluid mt-5">
-    <div class="d-flex justify-content-center">
-        <a href="https://www.linkedin.com/in/renee-gupta-b8a7661b6" target="_blank" class="social-link linkedin">
-            <i class="bi bi-linkedin"></i> LinkedIn of Creator
-        </a>
-    </div>
-</section>
-</div>
+   </style>
+  
 
           </section>
         </div>
@@ -163,7 +238,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12">
                     <div class="small text-center">
-                        <a class="impressum-a" 
+                        
                 </div>
             </div>
         </div>
