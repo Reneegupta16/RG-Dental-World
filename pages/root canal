@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Gaia Klinik | Root Canal Therapy</title>
+    <title> | Root Canal Therapy</title>
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="../assets/favicon.ico" />
@@ -47,7 +47,7 @@
         <div class="col-lg-10 mb-2" id="sect1">
           <h2>Root Canal Therapy</h2>
           <hr>
-          <img src="img/webp/root-canal-therapy.webp" alt="Root Canal Therapy">
+          <img src="assets/rootcanal.png" alt="Root Canal Therapy">
         </div>
         <div class="col-lg-10 mt-2">
           <section id="sect2">
