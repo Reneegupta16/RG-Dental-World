@@ -57,7 +57,7 @@
         <div class="col-lg-10 mb-2" id="sect1">
           <h2>Dental Implants and Restorations</h2>
           <hr>
-          <img src="img/webp/dental-implant.webp" alt="Dental Implant">
+          <img src="assets/implant.png" alt="Dental Implant">
         </div>
         <div class="col-lg-10 mt-2">
           <section id="sect2">
